@@ -41,5 +41,11 @@ ColorKraft is an innovative Flutter mobile application that redefines how users 
 ## Conclusion
 ColorKraft revolutionizes the online custom photo printing experience by overcoming integration complexities and delivering a seamless, feature-rich platform. Continued innovation will ensure ColorKraft remains a leader in digital photo printing, empowering users to preserve memories with style and convenience.
 
+##   Snapshots
+![WhatsApp Image 2024-08-28 at 4 21 58 PM](https://github.com/user-attachments/assets/524442a8-c04b-4c89-95a4-e644febe6b72)
+![WhatsApp Image 2024-08-28 at 4 21 58 PM (1)](https://github.com/user-attachments/assets/8cca427a-7ba4-417c-8f7e-a3dea2129a6a)
+![A02](https://github.com/user-attachments/assets/880c497c-659b-491d-99ac-c0e6b7932c7e)
+![WhatsApp Image 2024-08-28 at 4 21 57 PM](https://github.com/user-attachments/assets/31a32bdc-dd6a-42b3-921d-9376d436b1f7)
+
 --- 
 

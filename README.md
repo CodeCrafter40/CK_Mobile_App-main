@@ -26,6 +26,15 @@ ColorKraft is an innovative Flutter mobile application that redefines how users 
 - **Interactive UI with Smooth Animations**
 
 ## Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-1.8.0-blue?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.4.0-blue?logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-13-green?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-10.1.0-yellow?logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-16.0.0-E434AA?logo=graphql&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-2.3.0-00A2FF?logo=ktor&logoColor=white)
+
 - **Frontend**: Flutter
 - **Backend**: Firebase
 - **APIs**: REST API
